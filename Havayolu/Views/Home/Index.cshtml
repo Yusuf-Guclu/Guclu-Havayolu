@@ -1,0 +1,940 @@
+﻿<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+<div id="mainCarousel" class="carousel slide" style="margin-top: 0.2rem;" data-bs-ride="carousel">
+    <!-- Indicators/dots -->
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2"></button>
+    </div>
+
+    <!-- The slideshow/carousel -->
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/image/nereye-ucacan.jpg" class="d-block w-100" alt="resim1"a>100
+            <div class="carousel-caption">
+                <h3>Nereye Uçmak İstersin?</h3>
+                <p>83 farklı ülkeye uçuşlar gerçekleştiriyoruz</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/image/guvenli-ucus2.jpg" class="d-block w-100" alt="resim2">
+            <div class="carousel-caption">
+                <h3>Güvenli Uçuşlar</h3>
+                <p>Modern filomuz ile konforlu seyahat</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/image/vip-hizmet.jpg" class="d-block w-100" alt="resim3">
+            <div class="carousel-caption">
+                <h3>VIP Hizmetler</h3>
+                <p>Özel bekleme salonlarımız ile ayrıcalıklı seyahat</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Left and right controls/icons -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+<!-- Carousel için CSS -->
+<style>
+    .carousel-item {
+        height: 1300px;
+    }
+
+    .carousel-item img {
+        object-fit: cover;
+        height: 500px;
+        width: 500px;
+        max-height: 1300px;
+        object-position: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .carousel-caption {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 20px;
+        border-radius: 10px;
+        bottom: 100px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+        max-width: 1000px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .carousel-caption p {
+        font-size: 1.1rem;
+    }
+    
+        .carousel-item {
+            height: 500px;
+        }
+        
+        .carousel-caption h3 {
+            font-size: 1.5rem;
+        }
+        
+        .carousel-caption p {
+            font-size: 1rem;
+        }
+
+    #mainCarousel {
+        margin: 0 !important;
+        padding: 0;
+        overflow: hidden;
+    }
+        .carousel-item {
+            height: 500px;
+        }
+        .carousel-item img {
+            max-height: 500px;
+        }
+</style>
+
+<!-- Online Bilet Bölümü -->
+<div class="container mt-5" id="online-bilet">
+    <div class="text-center mb-4">
+        <h2 style="color: #003580; font-weight: bold;">Online Bilet</h2>
+        <p class="text-muted">Online bileti kullanarak havalimanından bilet alma derdinden kurtulup zamandan tasarruf edebilirsiniz</p>
+    </div>
+</div>
+
+<!-- Bootstrap JS (Popper dahil) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+@model Havayolu.Models.Domain.Person
+<div class="ticket-search-container" id="online-bilet">
+    <form asp-action="ucuslariGetir">
+    <div class="container position-relative">
+        <div class="search-box p-4 bg-white shadow-lg rounded-3">
+            <div class="flight-type-selector mb-4">
+                <div class="btn-group" role="group">
+                    <input asp-for="ucusTuru" type="radio" class="btn-check" id="oneWay" value="Tek Yön" checked>
+                    <label asp-for="ucusTuru" class="btn btn-outline-primary" for="oneWay">Tek Yön</label>
+
+                    <input asp-for="ucusTuru" type="radio" class="btn-check" id="roundTrip" value="Gidiş-Dönüş">
+                    <label asp-for="ucusTuru" class="btn btn-outline-primary" for="roundTrip">Gidiş-Dönüş</label>
+
+                    <span class="text-danger" asp-validation-for="ucusTuru"></span>
+                </div>
+            </div>
+
+            <div class="row g-3">
+                <div class="col-md-6 col-lg-3">
+                    <label asp-for="nereden" class="form-label">Nereden</label>
+                    <select asp-for="nereden" class="form-select" id="fromWhere">
+                        <option value="IST">İstanbul - Sabiha Gökçen Havalimanı, Türkiye</option>
+                        <option value="ADF">Adıyaman - Adıyaman Havalimanı, Türkiye</option>
+                        <option value="AJI">Ağrı - Ahmed-i Hani Havalimanı, Türkiye</option>
+                        <option value="GZP">Alanya - Gazipaşa Havalimanı, Türkiye</option>
+                        <option value="ALA">Almatı - Almatı Havalimanı, Kazakistan</option>
+                        <option value="AMM">Amman - Queen Alia Havalimanı, Ürdün</option>
+                        <option value="AMS">Amsterdam - Schiphol Havalimanı, Hollanda</option>
+                        <option value="ESB">Ankara - Esenboğa Havalimanı, Türkiye</option>
+                        <option value="AYT">Antalya - Antalya Havalimanı, Türkiye</option>
+                        <option value="NQZ">Astana - Nursultan Nazerbayev Uluslararası Havalimanı, Kazakistan</option>
+                        <option value="BGW">Bağdat - Bağdat Uluslararası Havalimanı, Irak</option>
+                        <option value="BAH">Bahreyn - Bahreyn Uluslararası Havalimanı, Bahreyn</option>
+                        <option value="GYD">Bakü - Haydar Aliyev Uluslararası Havalimanı, Azerbaycan</option>
+                        <option value="EDO">Balıkesir-Edremit - Balıkesir Koca Seyit Havalimanı, Türkiye</option>
+                        <option value="BSL">Basel - Basel Mulhouse Freiburg Havalimanı, İsviçre</option>
+                        <option value="BAL">Batman - Batman Havalimanı, Türkiye</option>
+                        <option value="BEG">Belgrad - Belgrad Nikola Tesla Havalimanı, Sırbistan</option>
+                        <option value="BER">Berlin - Brandenburg Havalimanı, Almanya</option>
+                        <option value="BEY">Beyrut - Beyrut Refik Hariri Uluslararası Havalimanı, Lübnan</option>
+                        <option value="BGG">Bingöl - Bingöl Havalimanı, Türkiye</option>
+                        <option value="FRU">Bişkek - Manas Uluslararası Havalimanı, Kırgızistan</option>
+                        <option value="BJV">Bodrum - Milas / Bodrum Havalimanı, Türkiye</option>
+                        <option value="BRU">Brüksel - Brüksel Havalimanı, Belçika</option>
+                        <option value="BUD">Budapeşte - Ferenc Liszt Uluslararası Havalimanı, Macaristan</option>
+                        <option value="YEI">Bursa - Yenişehir Havalimanı, Türkiye</option>
+                        <option value="GVA">Cenevre - Cointrin Havalimanı, İsviçre</option>
+                        <option value="ALG">Cezayir - Houari Boumediene Havalimanı, Cezayir</option>
+                        <option value="JED">Cidde - Kral Abdulaziz Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="CKZ">Çanakkale - Çanakkale Havalimanı, Türkiye</option>
+                        <option value="COV">Çukurova - Çukurova Uluslararası Havalimanı, Türkiye</option>
+                        <option value="DLM">Dalaman - Dalaman Havalimanı, Türkiye</option>
+                        <option value="DMM">Dammam - Kral Fahd Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="DNZ">Denizli - Çardak Havalimanı, Türkiye</option>
+                        <option value="DIY">Diyarbakır - Diyarbakır Havalimanı, Türkiye</option>
+                        <option value="DXB">Dubai - Dubai Uluslararası Havalimanı, Birleşik Arap Emirlikleri</option>
+                        <option value="DUS">Düsseldorf - Rhein Ruhr Uluslararası Havalimanı, Almanya</option>
+                        <option value="EZS">Elazığ - Elazığ Havalimanı, Türkiye</option>
+                        <option value="EBL">Erbil - Erbil Havalimanı, Irak</option>
+                        <option value="ERC">Erzincan - Erzincan Havalimanı, Türkiye</option>
+                        <option value="ERZ">Erzurum - Erzurum Havalimanı, Türkiye</option>
+                        <option value="FRA">Frankfurt - Frankfurt Havalimanı, Almanya</option>
+                        <option value="GZT">Gaziantep - Gaziantep Havalimanı, Türkiye</option>
+                        <option value="YKO">Hakkari - Yüksekova Selahaddin Eyyubi Havalimanı, Türkiye</option>
+                        <option value="HAM">Hamburg - Fuhlsbüttel Havalimanı, Almanya</option>
+                        <option value="HAJ">Hannover - Hannover Havalimanı, Almanya</option>
+                        <option value="HTY">Hatay - Hatay Havalimanı, Türkiye</option>
+                        <option value="HRG">Hurgada - Hurgada Uluslararası Havalimanı, Mısır</option>
+                        <option value="IGD">Iğdır - Şehit Bülent Aydın Havalimanı, Türkiye</option>
+                        <option value="ADB">İzmir - Adnan Menderes Havalimanı, Türkiye</option>
+                        <option value="CAI">Kahire - Kahire Uluslararası Havalimanı, Mısır</option>
+                        <option value="KCM">Kahramanmaraş - Kahramanmaraş Havalimanı, Türkiye</option>
+                        <option value="KSY">Kars - Harakani Havalimanı, Türkiye</option>
+                        <option value="ASR">Kayseri - Kayseri Havalimanı, Türkiye</option>
+                        <option value="KYA">Konya - Konya Havalimanı, Türkiye</option>
+                        <option value="CPH">Kopenhag - Kastrup Havalimanı, Danimarka</option>
+                        <option value="CGN">Köln - Köln Bonn Havalimanı, Almanya</option>
+                        <option value="KWI">Kuveyt - Kuveyt Uluslararası Havalimanı, Kuveyt</option>
+                        <option value="ECN">Lefkoşa - Ercan Havalimanı, KKTC</option>
+                        <option value="STN">Londra - Stansted Havalimanı, Birleşik Krallık</option>
+                        <option value="LYS">Lyon - Saint Exupery Havalimanı, Fransa</option>
+                        <option value="MLX">Malatya - Malatya Havalimanı, Türkiye</option>
+                        <option value="MQM">Mardin - Mardin Havalimanı, Türkiye</option>
+                        <option value="MED">Medine - Prens Muhammed Bin Abdulaziz Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="BGY">Milano - Bergamo Havalimanı, İtalya</option>
+                        <option value="VKO">Moskova - Vnukovo Uluslararası Havalimanı, Rusya</option>
+                        <option value="MSR">Muş - Muş Havalimanı, Türkiye</option>
+                        <option value="MUC">Münih - Franz Josef Strauss Uluslararası Havalimanı, Almanya</option>
+                        <option value="NAV">Nevşehir - Kapadokya Havalimanı, Türkiye</option>
+                        <option value="OGU">Ordu-Giresun - Ordu - Giresun Havalimanı, Türkiye</option>
+                        <option value="CDG">Paris - Charles De Gaulle Havalimanı, Fransa</option>
+                        <option value="PRN">Priştine - Priştine Uluslararası Havalimanı, Kosova</option>
+                        <option value="RUH">Riyad - Kral Halid Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="RZV">Rize - Rize Artvin Havalimanı, Türkiye</option>
+                        <option value="FCO">Roma - Fiumicino - Leonardo Da Vinci Havalimanı, İtalya</option>
+                        <option value="SZF">Samsun - Çarşamba Havalimanı, Türkiye</option>
+                        <option value="SJJ">Saraybosna - Saraybosna Uluslararası Havalimanı, Bosna-Hersek</option>
+                        <option value="SXZ">Siirt - Siirt Havalimanı, Türkiye</option>
+                        <option value="VAS">Sivas - Nuri Demirağ Havalimanı, Türkiye</option>
+                        <option value="LED">St. Petersburg - Pulkovo Havalimanı, Rusya</option>
+                        <option value="ARN">Stockholm - Arlanda Havalimanı, İsveç</option>
+                        <option value="STR">Stuttgart - Stuttgart Havalimanı, Almanya</option>
+                        <option value="GNY">Şanlıurfa - Gap Havalimanı, Türkiye</option>
+                        <option value="SHJ">Şarjah - Şarjah Havalimanı, Birleşik Arap Emirlikleri</option>
+                        <option value="SSH">Şarm-El Şeyh - Şarm-El Şeyh Uluslararası Havalimanı, Mısır</option>
+                        <option value="NKT">Şırnak - Şerafettin Elçi Havalimanı, Türkiye</option>
+                        <option value="IKA">Tahran - İmam Humeyni Uluslararası Havalimanı, İran</option>
+                        <option value="TAS">Taşkent - Taşkent Uluslararası Havalimanı, Özbekistan</option>
+                        <option value="TBZ">Tebriz - Tebriz Uluslararası Havalimanı, İran</option>
+                        <option value="TBS">Tiflis - Tiflis Havalimanı, Gürcistan</option>
+                        <option value="TJK">Tokat - Tokat Havalimanı, Türkiye</option>
+                        <option value="TZX">Trabzon - Trabzon Havalimanı, Türkiye</option>
+                        <option value="TZL">Tuzla - Tuzla Uluslararası Havalimanı, Bosna-Hersek</option>
+                        <option value="OMH">Urmiye - Urmiye Uluslararası Havalimanı, İran</option>
+                        <option value="SKP">Üsküp - Üsküp Uluslararası Havalimanı, Kuzey Makedonya</option>
+                        <option value="VAN">Van - Ferit Melen Havalimanı, Türkiye</option>
+                        <option value="VIE">Viyana - Viyana Schwechat Havalimanı, Avusturya</option>
+                        <option value="ZRH">Zürih - Zürih Kloten Havalimanı, İsviçre</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="nereden"></span>
+                </div>
+
+                <div class="col-md-6 col-lg-3">
+                    <label asp-for="nereye" class="form-label">Nereye</label>
+                    <select asp-for="nereye" class="form-select" id="toWhere">
+                        <option value="ADF">Adıyaman - Adıyaman Havalimanı, Türkiye</option>
+                        <option value="IST">İstanbul - Sabiha Gökçen Havalimanı, Türkiye</option>
+                        <option value="AJI">Ağrı - Ahmed-i Hani Havalimanı, Türkiye</option>
+                        <option value="GZP">Alanya - Gazipaşa Havalimanı, Türkiye</option>
+                        <option value="ALA">Almatı - Almatı Havalimanı, Kazakistan</option>
+                        <option value="AMM">Amman - Queen Alia Havalimanı, Ürdün</option>
+                        <option value="AMS">Amsterdam - Schiphol Havalimanı, Hollanda</option>
+                        <option value="ESB">Ankara - Esenboğa Havalimanı, Türkiye</option>
+                        <option value="AYT">Antalya - Antalya Havalimanı, Türkiye</option>
+                        <option value="NQZ">Astana - Nursultan Nazerbayev Uluslararası Havalimanı, Kazakistan</option>
+                        <option value="BGW">Bağdat - Bağdat Uluslararası Havalimanı, Irak</option>
+                        <option value="BAH">Bahreyn - Bahreyn Uluslararası Havalimanı, Bahreyn</option>
+                        <option value="GYD">Bakü - Haydar Aliyev Uluslararası Havalimanı, Azerbaycan</option>
+                        <option value="EDO">Balıkesir-Edremit - Balıkesir Koca Seyit Havalimanı, Türkiye</option>
+                        <option value="BSL">Basel - Basel Mulhouse Freiburg Havalimanı, İsviçre</option>
+                        <option value="BAL">Batman - Batman Havalimanı, Türkiye</option>
+                        <option value="BEG">Belgrad - Belgrad Nikola Tesla Havalimanı, Sırbistan</option>
+                        <option value="BER">Berlin - Brandenburg Havalimanı, Almanya</option>
+                        <option value="BEY">Beyrut - Beyrut Refik Hariri Uluslararası Havalimanı, Lübnan</option>
+                        <option value="BGG">Bingöl - Bingöl Havalimanı, Türkiye</option>
+                        <option value="FRU">Bişkek - Manas Uluslararası Havalimanı, Kırgızistan</option>
+                        <option value="BJV">Bodrum - Milas / Bodrum Havalimanı, Türkiye</option>
+                        <option value="BRU">Brüksel - Brüksel Havalimanı, Belçika</option>
+                        <option value="BUD">Budapeşte - Ferenc Liszt Uluslararası Havalimanı, Macaristan</option>
+                        <option value="YEI">Bursa - Yenişehir Havalimanı, Türkiye</option>
+                        <option value="GVA">Cenevre - Cointrin Havalimanı, İsviçre</option>
+                        <option value="ALG">Cezayir - Houari Boumediene Havalimanı, Cezayir</option>
+                        <option value="JED">Cidde - Kral Abdulaziz Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="CKZ">Çanakkale - Çanakkale Havalimanı, Türkiye</option>
+                        <option value="COV">Çukurova - Çukurova Uluslararası Havalimanı, Türkiye</option>
+                        <option value="DLM">Dalaman - Dalaman Havalimanı, Türkiye</option>
+                        <option value="DMM">Dammam - Kral Fahd Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="DNZ">Denizli - Çardak Havalimanı, Türkiye</option>
+                        <option value="DIY">Diyarbakır - Diyarbakır Havalimanı, Türkiye</option>
+                        <option value="DXB">Dubai - Dubai Uluslararası Havalimanı, Birleşik Arap Emirlikleri</option>
+                        <option value="DUS">Düsseldorf - Rhein Ruhr Uluslararası Havalimanı, Almanya</option>
+                        <option value="EZS">Elazığ - Elazığ Havalimanı, Türkiye</option>
+                        <option value="EBL">Erbil - Erbil Havalimanı, Irak</option>
+                        <option value="ERC">Erzincan - Erzincan Havalimanı, Türkiye</option>
+                        <option value="ERZ">Erzurum - Erzurum Havalimanı, Türkiye</option>
+                        <option value="FRA">Frankfurt - Frankfurt Havalimanı, Almanya</option>
+                        <option value="GZT">Gaziantep - Gaziantep Havalimanı, Türkiye</option>
+                        <option value="YKO">Hakkari - Yüksekova Selahaddin Eyyubi Havalimanı, Türkiye</option>
+                        <option value="HAM">Hamburg - Fuhlsbüttel Havalimanı, Almanya</option>
+                        <option value="HAJ">Hannover - Hannover Havalimanı, Almanya</option>
+                        <option value="HTY">Hatay - Hatay Havalimanı, Türkiye</option>
+                        <option value="HRG">Hurgada - Hurgada Uluslararası Havalimanı, Mısır</option>
+                        <option value="IGD">Iğdır - Şehit Bülent Aydın Havalimanı, Türkiye</option>
+                        <option value="ADB">İzmir - Adnan Menderes Havalimanı, Türkiye</option>
+                        <option value="CAI">Kahire - Kahire Uluslararası Havalimanı, Mısır</option>
+                        <option value="KCM">Kahramanmaraş - Kahramanmaraş Havalimanı, Türkiye</option>
+                        <option value="KSY">Kars - Harakani Havalimanı, Türkiye</option>
+                        <option value="ASR">Kayseri - Kayseri Havalimanı, Türkiye</option>
+                        <option value="KYA">Konya - Konya Havalimanı, Türkiye</option>
+                        <option value="CPH">Kopenhag - Kastrup Havalimanı, Danimarka</option>
+                        <option value="CGN">Köln - Köln Bonn Havalimanı, Almanya</option>
+                        <option value="KWI">Kuveyt - Kuveyt Uluslararası Havalimanı, Kuveyt</option>
+                        <option value="ECN">Lefkoşa - Ercan Havalimanı, KKTC</option>
+                        <option value="STN">Londra - Stansted Havalimanı, Birleşik Krallık</option>
+                        <option value="LYS">Lyon - Saint Exupery Havalimanı, Fransa</option>
+                        <option value="MLX">Malatya - Malatya Havalimanı, Türkiye</option>
+                        <option value="MQM">Mardin - Mardin Havalimanı, Türkiye</option>
+                        <option value="MED">Medine - Prens Muhammed Bin Abdulaziz Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="BGY">Milano - Bergamo Havalimanı, İtalya</option>
+                        <option value="VKO">Moskova - Vnukovo Uluslararası Havalimanı, Rusya</option>
+                        <option value="MSR">Muş - Muş Havalimanı, Türkiye</option>
+                        <option value="MUC">Münih - Franz Josef Strauss Uluslararası Havalimanı, Almanya</option>
+                        <option value="NAV">Nevşehir - Kapadokya Havalimanı, Türkiye</option>
+                        <option value="OGU">Ordu-Giresun - Ordu - Giresun Havalimanı, Türkiye</option>
+                        <option value="CDG">Paris - Charles De Gaulle Havalimanı, Fransa</option>
+                        <option value="PRN">Priştine - Priştine Uluslararası Havalimanı, Kosova</option>
+                        <option value="RUH">Riyad - Kral Halid Uluslararası Havalimanı, Suudi Arabistan</option>
+                        <option value="RZV">Rize - Rize Artvin Havalimanı, Türkiye</option>
+                        <option value="FCO">Roma - Fiumicino - Leonardo Da Vinci Havalimanı, İtalya</option>
+                        <option value="SZF">Samsun - Çarşamba Havalimanı, Türkiye</option>
+                        <option value="SJJ">Saraybosna - Saraybosna Uluslararası Havalimanı, Bosna-Hersek</option>
+                        <option value="SXZ">Siirt - Siirt Havalimanı, Türkiye</option>
+                        <option value="VAS">Sivas - Nuri Demirağ Havalimanı, Türkiye</option>
+                        <option value="LED">St. Petersburg - Pulkovo Havalimanı, Rusya</option>
+                        <option value="ARN">Stockholm - Arlanda Havalimanı, İsveç</option>
+                        <option value="STR">Stuttgart - Stuttgart Havalimanı, Almanya</option>
+                        <option value="GNY">Şanlıurfa - Gap Havalimanı, Türkiye</option>
+                        <option value="SHJ">Şarjah - Şarjah Havalimanı, Birleşik Arap Emirlikleri</option>
+                        <option value="SSH">Şarm-El Şeyh - Şarm-El Şeyh Uluslararası Havalimanı, Mısır</option>
+                        <option value="NKT">Şırnak - Şerafettin Elçi Havalimanı, Türkiye</option>
+                        <option value="IKA">Tahran - İmam Humeyni Uluslararası Havalimanı, İran</option>
+                        <option value="TAS">Taşkent - Taşkent Uluslararası Havalimanı, Özbekistan</option>
+                        <option value="TBZ">Tebriz - Tebriz Uluslararası Havalimanı, İran</option>
+                        <option value="TBS">Tiflis - Tiflis Havalimanı, Gürcistan</option>
+                        <option value="TJK">Tokat - Tokat Havalimanı, Türkiye</option>
+                        <option value="TZX">Trabzon - Trabzon Havalimanı, Türkiye</option>
+                        <option value="TZL">Tuzla - Tuzla Uluslararası Havalimanı, Bosna-Hersek</option>
+                        <option value="OMH">Urmiye - Urmiye Uluslararası Havalimanı, İran</option>
+                        <option value="SKP">Üsküp - Üsküp Uluslararası Havalimanı, Kuzey Makedonya</option>
+                        <option value="VAN">Van - Ferit Melen Havalimanı, Türkiye</option>
+                        <option value="VIE">Viyana - Viyana Schwechat Havalimanı, Avusturya</option>
+                        <option value="ZRH">Zürih - Zürih Kloten Havalimanı, İsviçre</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="nereye"></span>
+                </div>
+
+                <div class="col-md-6 col-lg-2">
+                    <label asp-for="gidisTarihi" class="form-label">Gidiş Tarihi</label>
+                        <input asp-for="gidisTarihi" type="date" class="form-control" id="departureDate" min="@DateTime.Now.ToString("yyyy-MM-dd")">
+                    <span class="text-danger" asp-validation-for="gidisTarihi"></span>
+                </div>
+
+                <div class="col-md-6 col-lg-2">
+                    <label asp-for="donusTarihi" class="form-label">Dönüş Tarihi</label>
+                        <input asp-for="donusTarihi" type="date" class="form-control" id="returnDate" min="@DateTime.Now.ToString("yyyy-MM-dd")">
+                    <span class="text-danger" asp-validation-for="donusTarihi"></span>
+                </div>
+
+                <div class="col-md-6 col-lg-2">
+                    <div class="dropdown mt-4 pt-2">
+                        <button class="btn dropdown-toggle border" type="button" data-bs-toggle="dropdown">
+                            Yolcu Seçimi
+                        </button>
+                        <ul class="dropdown-menu p-3 bg-white lh-sm">
+                            <li>
+                                <label class="form-label  mt-1">Yetişkin</label>
+                                <input type="number" class="form-control" min="1" max="9" value="1">
+                                <span class="text-danger"></span>
+                            </li>
+                            <li>
+                                <label class="form-label  mt-1">Çocuk</label>
+                                <input type="number" class="form-control" min="0" max="9" value="0">
+                                <span class="text-danger"></span>
+                            </li>
+                            <li>
+                                <label class="form-label  mt-1">Bebek</label>
+                                <input type="number" class="form-control" min="0" max="5" value="0">
+                                <span class="text-danger"></span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+            </div>
+
+            @if (Context.Session.GetString("adi") != null)
+            {
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                        <button class="btn btn-primary btn-lg px-5" data-bs-toggle="modal" data-bs-target="#biletModal">
+                        Bilet Al
+                    </button>
+                </div>
+            }
+            else
+            {
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                    <button class="btn btn-primary btn-lg px-5" disabled>
+                            Bilet Al
+                    </button>
+                </div>
+                <p class="text-danger" style="position: absolute; bottom: 25px;">Bilet almak için önce giriş yapınız</p>
+            }
+            
+        </div>
+    </div>
+    </form>
+
+    <!--Modal-->
+    <div class="modal fade" id="biletModal" tabindex="-1" aria-labelledby="biletModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            
+        </div>
+    </div>
+    </div>
+
+
+</div>
+
+<style>
+    .ticket-search-container {
+        margin-top: 20px;
+        position: relative;
+        z-index: 1000;
+    }
+
+    .search-box {
+        background-color: rgba(255, 255, 255, 0.95) !important;
+    }
+
+    .btn-outline-primary {
+        border-color: #003580;
+        color: #003580;
+    }
+
+    .btn-outline-primary:hover,
+    .btn-outline-primary:active,
+    .btn-check:checked + .btn-outline-primary {
+        background-color: #003580;
+        border-color: #003580;
+        color: white;
+    }
+
+    .btn-primary {
+        background-color: #003580;
+        border-color: #003580;
+    }
+
+    .btn-primary:hover {
+        background-color: #002255;
+        border-color: #002255;
+    }
+
+    .form-label {
+        font-weight: 500;
+        color: #333;
+    }
+
+    .modal-header {
+        overflow: visible !important;
+        z-index: 9999;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const oneWayRadio = document.getElementById('oneWay');
+        const roundTripRadio = document.getElementById('roundTrip');
+        const returnDateContainer = document.querySelector('#returnDate').closest('.col-md-6');
+
+        // Sayfa yüklendiğinde kontrol et
+        if (oneWayRadio.checked) {
+            returnDateContainer.style.display = 'none';
+        }
+
+        oneWayRadio.addEventListener('change', function() {
+            returnDateContainer.style.display = 'none';
+        });
+
+        roundTripRadio.addEventListener('change', function() {
+            returnDateContainer.style.display = 'block';
+        });
+    });
+
+
+        function ucuslariGetir() {
+        var nereden = document.getElementById("fromWhere").value;
+        var nereye = document.getElementById("toWhere").value;
+        
+        $.ajax({
+            url: '/Home/UcuslariGetir',
+        method: 'POST',
+        data: {nereden: nereden, nereye: nereye },
+        success: function (data) {
+            $('#biletListesi').html(data);
+        var myModal = new bootstrap.Modal(document.getElementById('biletModal'));
+        myModal.show();
+                }
+            });
+        }
+
+</script>
+
+<div class="container mt-5" id="ek-hizmetler">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold mb-3" style="color: #003580;">Ek Hizmetler</h2>
+        <p class="text-muted">Havayolumuzun ek hizmetlerinden yararlanabilirsiniz</p>
+    </div>
+
+    <div class="row g-4">
+        <!-- Koltuk Seçimi -->
+        <div class="col-md-3">
+            <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm hover-shadow">
+                <div class="text-center mb-4">
+                    <div class="service-icon mb-3" style=""><i class="fas fa-couch fa-xl"></i></div>
+                    <h5 class="service-title fw-bold" style="color: #003580;">Koltuk Seçimi</h5>
+                    <p class="text-muted">Seyahatiniz için en uygun koltuğu önceden seçin</p>
+                    <a href="#" class="btn btn-link text-primary text-decoration-none">
+                        Daha Fazla
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Fazla Bagaj -->
+        <div class="col-md-3">
+            <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm hover-shadow">
+                <div class="text-center mb-4">
+                    <div class="service-icon mb-3" style=""><i class="fas fa-luggage-cart fa-xl"></i></div>
+                    <h5 class="service-title fw-bold" style="color: #003580;">Fazla Bagaj</h5>
+                    <p class="text-muted">Ek bagaj hakkı için önceden rezervasyon yapın</p>
+                    <a href="#" class="btn btn-link text-primary text-decoration-none">
+                        Daha Fazla
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Spor Ekipmanı -->
+        <div class="col-md-3">
+            <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm hover-shadow">
+                <div class="text-center mb-4">
+                    <div class="service-icon mb-3" style=""><i class="fas fa-dumbbell fa-xl"></i></div>
+                    <h5 class="service-title fw-bold" style="color: #003580;">Spor Ekipmanı</h5>
+                    <p class="text-muted">Spor ekipmanlarınız için özel taşıma hizmeti</p>
+                    <a href="#" class="btn btn-link text-primary text-decoration-none">
+                        Daha Fazla
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Premium Hizmet -->
+        <div class="col-md-3">
+            <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm hover-shadow">
+                <div class="text-center mb-4">
+                    <div class="service-icon mb-3" style=""><i class="fas fa-crown fa-xl"></i></div>
+                    <h5 class="service-title fw-bold" style="color: #003580;">Premium Hizmet</h5>
+                    <p class="text-muted">Özel salon ve öncelikli hizmetlerden yararlanın</p>
+                    <a href="#" class="btn btn-link text-primary text-decoration-none">
+                        Daha Fazla
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .hover-shadow {
+        transition: box-shadow 0.3s ease;
+    }
+
+    .hover-shadow:hover {
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    }
+
+    .service-icon {
+        transition: transform 0.3s ease;
+    }
+
+    .service-card:hover .service-icon {
+        transform: scale(1.1);
+    }
+
+    .service-title {
+        position: relative;
+        padding-bottom: 15px;
+    }
+
+    .service-title::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 50px;
+        height: 2px;
+        background: linear-gradient(to right, #003580, #1a73e8);
+    }
+
+    .btn-link {
+        color: #003580 !important;
+    }
+
+    .btn-link:hover {
+        color: #1a73e8 !important;
+    }
+</style>
+
+<!-- Uçuş Noktaları -->
+<div class="container mt-5" id="uçuş-noktaları">
+    <div class="text-center mb-4">
+        <h2 style="color: #003580; font-weight: bold;">Uçuş Noktaları</h2>
+        <p class="text-muted">İndirimli uçuşlardan haberdar olmak için burayı kontrol edebilirsiniz. Görülecek çok yer var</p>
+    </div>
+</div>
+
+<div class="container mt-5 mb-5">
+    <div class="row g-4">
+        <!-- Paris Kartı -->
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm">
+                <img src="~/image/pariss.jpg" class="card-img-top" alt="Paris" style="height: 200px; object-fit: cover;">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-bold" style="color: #003580;">Paris</h5>
+                    <p class="card-text text-muted mb-1">₺7.999'dan başlayan fiyatlarla</p>
+                    <p class="card-text"><small class="text-muted">Direkt Uçuş</small></p>
+                    <a href="#" class="btn btn-primary" style="background-color: #003580; border: none;">Bilete Göz At</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dubai Kartı -->
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm">
+                <img src="~/image/dubaii.jpg" class="card-img-top" alt="Dubai" style="height: 200px; object-fit: cover;">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-bold" style="color: #003580;">Dubai</h5>
+                    <p class="card-text text-muted mb-1">₺9.499'dan başlayan fiyatlarla</p>
+                    <p class="card-text"><small class="text-muted">Direkt Uçuş</small></p>
+                    <a href="#" class="btn btn-primary" style="background-color: #003580; border: none;">Bilete Göz At</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Londra Kartı -->
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm">
+                <img src="~/image/londraa.jpg" class="card-img-top" alt="Londra" style="height: 200px; object-fit: cover;">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-bold" style="color: #003580;">Londra</h5>
+                    <p class="card-text text-muted mb-1">₺8.299'dan başlayan fiyatlarla</p>
+                    <p class="card-text"><small class="text-muted">Direkt Uçuş</small></p>
+                    <a href="#" class="btn btn-primary" style="background-color: #003580; border: none;">Bilete Göz At</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- New York Kartı -->
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm">
+                <img src="~/image/new-yorkk.jpeg" class="card-img-top" alt="New York" style="height: 200px; object-fit: cover;">
+                <div class="card-body text-center">
+                    <h5 class="card-title fw-bold" style="color: #003580;">New York</h5>
+                    <p class="card-text text-muted mb-1">₺12.999'dan başlayan fiyatlarla</p>
+                    <p class="card-text"><small class="text-muted">Direkt Uçuş</small></p>
+                    <a href="#" class="btn btn-primary" style="background-color: #003580; border: none;">Bilete Göz At</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        transition: transform 0.3s ease;
+        border-radius: 0 2rem 0 2rem;
+    }
+    
+    .card:hover {
+        transform: scale(1.1);
+    }
+    
+    .card .card-img-top {
+        border-radius: 0 2rem 0 0;
+    }
+    
+    .btn-primary {
+        border-radius: 0 1rem 0 1rem !important;
+    }
+    
+    .btn-primary:hover {
+        background-color: #1a73e8 !important;
+    }
+</style>
+
+<!-- Sıkça Sorulan Sorular -->
+<div class="container mt-5 mb-5" id="sikça-sorular">
+    <div class="text-center mb-5">
+        <h2 style="color: #003580; font-weight: bold;">Sıkça Sorulan Sorular</h2>
+        <p class="text-muted">Merak ettiğiniz soruların cevaplarını burada bulabilirsiniz</p>
+    </div>
+
+    <div class="accordion" id="faqAccordion">
+        <!-- Soru 1 -->
+        <div class="accordion-item border mb-3 rounded-3">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+                    Uçuşumu nasıl erken check-in yapabilirim?
+                </button>
+            </h2>
+            <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    Uçuşunuzdan 24 saat önce web sitemiz veya mobil uygulamamız üzerinden check-in işleminizi gerçekleştirebilirsiniz. Online check-in sayesinde havalimanında sıra beklemeden direkt güvenliğe geçebilirsiniz.
+                </div>
+            </div>
+        </div>
+
+        <!-- Soru 2 -->
+        <div class="accordion-item border mb-3 rounded-3">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+                    Evcil hayvanımla seyahat edebilir miyim?
+                </button>
+            </h2>
+            <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    Evet, belirli şartlar altında evcil hayvanınızla seyahat edebilirsiniz. Kabin içi taşıma için hayvanınızın 8 kg'ı geçmemesi ve özel taşıma çantasında olması gerekmektedir. Detaylı bilgi için müşteri hizmetlerimizle iletişime geçebilirsiniz.
+                </div>
+            </div>
+        </div>
+
+        <!-- Soru 3 -->
+        <div class="accordion-item border mb-3 rounded-3">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+                    Mil puanlarımı ne kadar sürede kullanmalıyım?
+                </button>
+            </h2>
+            <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    Mil puanlarınız kazanıldıkları tarihten itibaren 2 yıl geçerlidir. Bu süre içinde kullanılmayan miller otomatik olarak silinir. Ayrıca, elite üyelerimizin milleri 3 yıl geçerlidir.
+                </div>
+            </div>
+        </div>
+
+        <!-- Soru 4 -->
+        <div class="accordion-item border mb-3 rounded-3">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
+                    Öğrenci indirimi için hangi belgeler gerekli?
+                </button>
+            </h2>
+            <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    Öğrenci indiriminden yararlanmak için geçerli bir öğrenci kimlik kartı veya öğrenci belgesi yeterlidir. Belgenizin son 6 ay içinde alınmış olması ve aktif öğrenci olduğunuzu göstermesi gerekmektedir.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .accordion-button:not(.collapsed) {
+        background-color: #003580 !important;
+        color: white !important;
+    }
+
+    .accordion-button:focus {
+        border-color: #003580;
+        box-shadow: 0 0 0 0.25rem rgba(0, 53, 128, 0.25);
+    }
+
+    .accordion-item {
+        transition: transform 0.3s ease;
+    }
+
+    .accordion-item:hover {
+        transform: translateX(10px);
+    }
+</style>
+
+<!-- Soru sor bölümü -->
+<div class="container mt-5 mb-5">
+    <div class="ask-question-box p-4 bg-light rounded-3 shadow-sm">
+        <h3 class="text-center mb-4" style="color: #003580;">Bir Soru Sor</h3>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <form id="questionForm" onsubmit="submitQuestion(event)">
+                <div class="form-floating mb-3">
+                        <input type="text" class="form-control pt-3" id="questionText" name="questionText" style="font-family: Unbounded;" required>
+                </div>
+                <div class="text-center">
+                        <button type="submit" class="btn btn-primary px-4 py-2" style="background-color: #003580; border: none; border-radius: 0 1rem 0 1rem;">
+                        Soruyu Gönder
+                    </button>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    async function submitQuestion(event) {
+        event.preventDefault();
+        
+        const questionText = document.getElementById('questionText').value;
+        
+        try {
+            const response = await fetch('/api/Questions', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    question: questionText,
+                    createdAt: new Date().toISOString()
+                })
+            });
+
+            if (response.ok) {
+                alert('Sorunuz başarıyla gönderildi!');
+                document.getElementById('questionForm').reset();
+            } else {
+                alert('Bir hata oluştu. Lütfen tekrar deneyin.');
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            alert('Bir hata oluştu. Lütfen tekrar deneyin.');
+        }
+    }
+</script>
+
+<style>
+    .ask-question-box {
+        background-color: rgba(255, 255, 255, 0.95) !important;
+    }
+
+    .form-floating input.form-control {
+        border: 2px solid #e0e0e0;
+        height: 65px !important;
+        padding-top: 2rem;
+        padding-bottom: 0.825rem;
+    }
+
+    .form-floating input.form-control:focus {
+        border-color: #003580;
+        box-shadow: 0 0 0 0.25rem rgba(0, 53, 128, 0.25);
+    }
+
+    /* Input focus olduğunda label'ı yukarı taşıma */
+    .form-floating input.form-control:focus ~ label,
+    .form-floating input.form-control:not(:placeholder-shown) ~ label {
+        transform: scale(.85) translateY(-0.5rem) translateX(0.15rem);
+        background-color: white;
+        padding: 0 0.5rem;
+    }
+
+    .form-floating input.form-control::placeholder {
+        font-size: 14px;
+    }
+    
+    .form-floating label {
+        font-size: 14px !important;
+    }
+</style>
+
+<!-- İletişim Bilgileri -->
+<div class="container mt-5" id="SSS">
+    <div class="text-center mb-4">
+        <h2 style="color: #003580; font-weight: bold;">İletişim Bilgileri</h2>
+        <p class="text-muted">Bizimle iletişime geçmek için aşağıdaki kanalları kullanabilirsiniz. Detaylı bilgi için iletişim sayfamıza bakabilirsiniz.</p>
+    </div>
+</div>
+
+<div class="container mb-5">
+    <div class="row justify-content-center g-4">
+        <!-- E-Posta Kartı -->
+        <div class="col-md-5">
+            <div class="contact-card p-4 bg-light rounded-3 shadow-sm h-100">
+                <div class="text-center">
+                    <div class="icon-box mx-auto mb-3">
+                        <i class="fas fa-envelope" style="color: #003580; font-size: 24px;"></i>
+                    </div>
+                    <h4 class="mb-3" style="color: #003580;">E-Posta</h4>
+                    <p class="mb-0 fs-5">info@gucluairline.com</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Çağrı Merkezi Kartı -->
+        <div class="col-md-5">
+            <div class="contact-card p-4 bg-light rounded-3 shadow-sm h-100">
+                <div class="text-center">
+                    <div class="icon-box mx-auto mb-3">
+                        <i class="fas fa-phone-alt" style="color: #003580; font-size: 24px;"></i>
+                    </div>
+                    <h4 class="mb-3" style="color: #003580;">Çağrı Merkezi</h4>
+                    <p class="mb-0 fs-5">+90 216 666 06 66</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Adres Kartı -->
+        <div class="col-md-8 mt-4 mb-4">
+            <div class="contact-card p-4 bg-light rounded-3 shadow-sm">
+                <div class="text-center">
+                    <div class="icon-box mx-auto mb-3">
+                        <i class="fas fa-map-marker-alt" style="color: #003580; font-size: 24px;"></i>
+                    </div>
+                    <h4 class="mb-3" style="color: #003580;">Adres</h4>
+                    <p class="mb-0 fs-5">Gökyüzü Sokak,<br>No: 66, Güçlü Air Plaza,<br>Tuzla/İstanbul</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .contact-card {
+        background-color: rgba(255, 255, 255, 0.95) !important;
+        border: 1px solid rgba(0, 53, 128, 0.1);
+        transition: transform 0.3s ease;
+    }
+
+    .icon-box {
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        background-color: rgba(0, 53, 128, 0.1);
+    }
+</style>

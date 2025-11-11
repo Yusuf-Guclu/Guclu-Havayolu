@@ -1,0 +1,82 @@
+﻿@model Havayolu.Models.Domain.Kullanici
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+<style>
+    .prefix {
+        position: absolute;
+        top: 48%;
+        left: 30%;
+        pointer-events: none;
+        font-weight: bold;
+    }
+</style>
+
+<form asp-action="Register">
+<div class="w-50 bg-white shadow-lg ms-auto me-auto rounded-4 m-5">
+    <div class="container">
+        <div class="d-flex align-items-center justify-content-center p-5">
+            <img src="~/image/Adsız tasarım.png" width="80" height="80" class="me-2" alt="logo" />
+            <span class="fw-bold fs-2 text-black" style="font-family: 'Unbounded', sans-serif">GUCLU AIRLINE</span>
+        </div>
+        <hr />
+        <div class="d-flex align-items-center flex-column p-5 position-relative">
+            <h3 class="pt-1 pb-4 fw-bold" style="font-family: 'Unbounded', sans-serif; color: #003580;">Üye Ol</h3>
+            <label asp-for="adi" style="margin-right: 291px;" for="username">Adı:</label>
+                <input asp-for="adi" type="text" id="username" class="w-50 fs-4 rounded-2" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="adi"></span>
+
+            <label asp-for="soyadi" class="mt-5" style="margin-right: 268px;" for="lastName">Soyadı:</label>
+                <input asp-for="soyadi" type="text" id="lastName" class="w-50 fs-4 rounded-2" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="soyadi"></span>
+
+            <label asp-for="e_posta" class="mt-5" style="margin-right: 265px;" for="email">E-Posta:</label>
+                <input asp-for="e_posta" type="text" id="email" class="w-50 fs-4 rounded-2" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="e_posta"></span>
+
+            
+            <label asp-for="telefon" class="mt-5" style="margin-right: 270px;" for="phone">Telefon:</label>
+            <span class="prefix">90+</span>
+                <input asp-for="telefon" type="text" id="phone" class="w-50 fs-4 rounded-2 ps-5" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="telefon"></span>
+            
+
+            <label asp-for="sifre" class="mt-5" style="margin-right: 285px;" for="password">Şifre:</label>
+                <input asp-for="sifre" type="password" id="password" class="w-50 fs-4 rounded-2" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="sifre"></span>
+
+            <label asp-for="sifre_tekrar" class="mt-5" style="margin-right: 232px;" for="passwordAgain">Şifre (Tekrar):</label>
+                <input asp-for="sifre_tekrar" type="password" id="passwordAgain" class="w-50 fs-4 rounded-2" autocomplete="off" />
+            <span class="text-danger" asp-validation-for="sifre_tekrar"></span>
+
+            <button class="btn mt-5 mb-4 p-3 fs-5 fw-bold text-white" style="background-color: #003580;">Üye Ol</button>
+
+                
+
+            <p class="mt-5">Kayıt olduysanız giriş yapmak için <a asp-controller="Home" asp-action="login" class="fw-bold fs-6" style="cursor: pointer; color: cornflowerblue">Buraya</a> tıklayınız</p>
+        </div>
+    </div>
+</div>
+</form>
+
+
+
+<script>
+    const phoneInput = document.getElementById("phone");
+
+    phoneInput.addEventListener("input", function (e) {
+        let value = e.target.value.replace(/\D/g, ""); // sadece rakamları al
+
+        // Maksimum 10 rakam (örnek formatta)
+        value = value.substring(0, 10);
+
+        let formatted = "";
+        if (value.length > 0) formatted += "(";
+        if (value.length >= 1) formatted += value.substring(0, 3);
+        if (value.length >= 4) formatted += ") " + value.substring(3, 6);
+        if (value.length >= 7) formatted += " " + value.substring(6, 8);
+        if (value.length >= 9) formatted += " " + value.substring(8, 10);
+
+        e.target.value = formatted;
+    });
+</script>

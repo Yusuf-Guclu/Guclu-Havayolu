@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Havayolu.Controllers.QuestionsController",
+    "Method": "PostQuestion",
+    "RelativePath": "api/Questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "question",
+        "Type": "Havayolu.Models.QuestionModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

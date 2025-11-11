@@ -1,0 +1,52 @@
+﻿<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<!-- Header Image -->
+<div class="header-image" id="header-image">
+    <img src="~/image/doga.jpg" style="width: 100%; height: 300px; object-fit: cover; margin-bottom: 30px;">
+</div>
+
+<center><div class="tumUcuslar" style="background-color: white; width: 85%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius:20px; position: relative; top: -200px;">
+
+        <h2 class="pt-3 pb-3">Biletler</h2>
+
+        @model IEnumerable<Havayolu.Models.Domain.Bilet>
+        @foreach (var bilet in Model)
+        {
+            <div class="container pb-3">
+                <div class="Ticked border border-3 border-dark" style="border-radius: 20px;">
+                    <h2 class="pt-3 pb-2">Bilet</h2>
+
+                    <div class="row p-1">
+                        <div class="col-lg-6">
+                            <h3>Kişisel</h3>
+                            <p class="mt-2">Adı: @bilet.adi</p>
+                            <p>Soyadı: @bilet.soyadi</p>
+
+                            <a class="btn btn-danger mt-5 fs-5 p-2" href="/Home/kayitSil?id=@bilet.id">Bilet İptal</a>
+
+                        </div>
+                        <div class="col-lg-6">
+                            <h3>Uçuş</h3>
+                            <p class="mt-2">Uçuş Türü: @bilet.ucusTuru</p>
+                            <p>Nereden: @bilet.nereden</p>
+                            <p>Nereye: @bilet.nereye</p>
+                            <p>Gidiş Tarihi: @bilet.gidisTarihi</p>
+                            <p>Dönüş Tarihi: @bilet.donusTarihi</p>
+                            <p>Fiyat: @bilet.fiyat TL</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+</div></center>
+
+<style>
+    .header-image {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .header-image img {
+        transition: transform 0.3s ease;
+    }
+</style>

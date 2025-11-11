@@ -1,0 +1,170 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/*.header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}*/
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.hizmet {
+    position:relative;
+    right: 70px;
+}
+
+.navbar {
+    background-color: royalblue;
+    position: absolute;
+    width: 100%;
+    opacity: 90%;
+}
+
+.img {
+    position: relative;
+    left: 10px;
+}
+
+.bas {
+    position:relative;
+    color: white;
+    font-size: 20px;
+    top:5px;
+    left: -190px;
+}
+
+.giris {
+    position: relative;
+    width: 250px;
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 20%;
+    height: 60px;
+    background-color: midnightblue;
+    left: 20px;
+}
+
+.grs {
+    position: relative;
+    top: 15px;
+    left: 100px;
+    border-color: white;
+    background-color: royalblue;
+    width: 120px;
+    height: 40px;
+    color: white;
+    margin-bottom: 5px;
+    font-size:15px;
+    top: 10px;
+    right: 40px;
+}
+
+.custom-height {
+    height: 490px;
+    object-fit: cover;
+}
+
+
+.bltara {
+    width: 100%;
+    height:150px;
+    border:solid 1px;
+}
+
+.radi {
+    display: flex;
+}
+
+
+footer {
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.social-media {
+    font-size: 25px; /* Sosyal medyada bizi takip edin yazýsý */
+    text-align: center; /* Ortala */
+    flex: 1; /* Ortada yer kaplamasý için */
+    margin-bottom: 60px;
+
+}
+
+.services {
+    font-size: 22px; /* Hizmetlerimiz yazýsý */
+    margin-left: 70px
+}
+
+    .services ul {
+        list-style-type: none; /* Madde iþaretlerini kaldýr */
+        padding: 0; /* Ýç boþluðu kaldýr */
+        margin: 0; /* Dýþ boþluðu kaldýr */
+    }
+
+        .services ul li {
+            margin: 5px 0; /* Her bir madde için boþluk */
+        }
+
+            .services ul li a {
+                font-size: 16px; /* Baðlantýlarýn font boyutu */
+                color: white; /* Baðlantýlarýn rengi */
+                text-decoration: none; /* Alt çizgiyi kaldýr */
+            }
+
+                .services ul li a:hover {
+                    text-decoration: underline; /* Üzerine gelince alt çizgi ekle */
+                }
+
+.social-icons {
+    display: flex;
+    gap: 10px; /* Sosyal medya simgeleri arasýnda boþluk */
+    justify-content: center; /* Ýkonlarý ortala */
+}
+
+.airport-image {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 120px; /* Resmin geniþliði */
+    height: auto; /* Orantýlý yükseklik */
+}
+
+.lg {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    background-color: royalblue;
+    right: 50px;
+    bottom: 10px;
+    border-radius: 30%;
+}
+
+input#price::-webkit-outer-spin-button,
+input#price::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

@@ -1,0 +1,86 @@
+﻿<!--BootStrap-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<div class="position-relative">
+    <img src="~/image/kurumsal (1).jpg" class="img-fluid w-100" style="height: 350px; object-fit:cover; -o-object-position: center;" /> <!--image-rendering: auto;  resimin netliğini ayarlar-->
+    <h1 class="position-absolute top-50 translate-middle-y ms-5 ps-5 text-white" style="font-family: Unbounded; font-size: 60px;">Kurumsal</h1>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="fw-bold" style="font-family: Unbounded; color: #003580">Kurumsal</h1>
+            <p>GUCLU HAVAYOLU bayrağı altında yıllardır gerçekleşen keyifli seyahatlerden sonra, GUCLU AIRLINE markası sadece yeni bir isim değil; aynı zamanda yolcularına modern ve ulaşılabilir fiyatlarla hizmet sunma vaadini taşıyan bir dönüşümün de adı. Yolcularımızın uygun fiyatlı seyahat etme isteklerine odaklanan yepyeni bir havayolu oluşturduk. GUCLU AIRLINE havayolumuz, genç ve çevreci uçaklardan oluşan, sade ve ferah kabinlere sahip bir filoya sahip olmanın yanı sıra, dijital bir havayolu olarak da kullanıcı dostu ve kısa sürede işlemlerinizi tamamlamanıza imkân sağlayan rezervasyon sistemleri ile hizmet veriyor. Önümüzdeki 10 yıl içerisinde 200 uçağımız ile 42 iç hat, 80 dış hat olmak üzere toplam 44 ülkeye uçacağız. Böylece her seyahat planınızda size eşlik edecek bir AJet uçuşu olacak. Sizleri en uygun fiyatlarla, sevdiklerinize güvenle kavuşturmaya devam edeceğiz.</p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mb-5 d-flex justify-content-center">
+
+    <div class="row mt-5">
+
+        <div class="col-3 gx-5">
+            <div class="card border p-2" style="width: 16rem;">
+                <img src="~/image/Adsız tasarım.png" class="img-top w-100"/>
+                <p class="fs-4 text-center mt-3">Anasayfa</p>
+                <div class="d-flex justify-content-center mb-3">
+                    <a asp-controller="Home" asp-action="Index" class="btn border w-75 mt-2 py-2 text-white" style="background-color: #003580; border-color: #003580;">Detaylı Bilgi</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-3 gx-5">
+            <div class="card border p-2" style="width: 16rem;">
+                <img src="~/image/Adsız tasarım.png" class="img-top w-100" />
+                <p class="fs-4 text-center mt-3">Hakkımızda</p>
+                <div class="d-flex justify-content-center mb-3">
+                    <a asp-controller="Home" asp-action="aboutUs" class="btn border w-75 mt-2 py-2 text-white" style="background-color: #003580; border-color: #003580;">Detaylı Bilgi</a>
+                </div>
+            </div>
+        </div>
+
+
+        @if(Context.Session.GetString("adi") != null)
+        {
+            <div class="col-3 gx-5">
+                <div class="card border p-2" style="width: 16rem;">
+                    <img src="~/image/Adsız tasarım.png" class="img-top w-100" />
+                    <p class="fs-4 text-center mt-3">Biletler</p>
+                    <div class="d-flex justify-content-center mb-3">
+                        <a asp-controller="Home" asp-action="Privacy" class="btn border w-75 mt-2 py-2 text-white" style="background-color: #003580; border-color: #003580;">Detaylı Bilgi</a>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="col-3 gx-5">
+                <div class="card border p-2" style="width: 16rem;">
+                    <img src="~/image/Adsız tasarım.png" class="img-top w-100" />
+                    <p class="fs-4 text-center mt-3">Biletler</p>
+                    <div class="d-flex flex-column justify-content-center">
+                        <a asp-controller="Home" asp-action="Privacy" class="btn border w-75 mx-auto mt-2 py-2 text-white" style="background-color: #003580; border-color: #003580; pointer-events: none;">Detaylı Bilgi</a>
+                        <p class="text-danger text-center mb-0 mt-0" style="line-height: 1;">Giriş yapınız!</p>
+                    </div>
+                </div>
+            </div>
+        }
+
+
+
+        <div class="col-3 gx-5">
+            <div class="card border p-2" style="width: 16rem;">
+                <img src="~/image/Adsız tasarım.png" class="img-top w-100" />
+                <p class="fs-4 text-center mt-3">Politikalarımız</p>
+                <div class="d-flex justify-content-center mb-3">
+                    <a asp-controller="Home" asp-action="cookiePolicy" class="btn border w-75 mt-2 py-2 text-white" style="background-color: #003580; border-color: #003580;">Detaylı Bilgi</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

@@ -1,0 +1,732 @@
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.staticwebassets.runtime.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.exe
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.deps.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.runtimeconfig.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.dll
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.pdb
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfoInputs.cache
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfo.cs
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CoreCompileInputs.cache
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cache
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cs
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.Havayolu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.build.Havayolu.props
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Havayolu.props
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Havayolu.props
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\bundle\Havayolu.styles.css
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\projectbundle\Havayolu.bundle.scp.css
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.dll
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\refint\Havayolu.dll
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.pdb
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.genruntimeconfig.cache
+C:\Users\Prog6-2\source\repos\Havayolu\Havayolu\obj\Debug\net8.0\ref\Havayolu.dll
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.Development.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.staticwebassets.runtime.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.exe
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.deps.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.runtimeconfig.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.dll
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.pdb
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfoInputs.cache
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfo.cs
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CoreCompileInputs.cache
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.MvcApplicationPartsAssemblyInfo.cache
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cache
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cs
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.build.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.development.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.Havayolu.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.build.Havayolu.props
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Havayolu.props
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Havayolu.props
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\bundle\Havayolu.styles.css
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\projectbundle\Havayolu.bundle.scp.css
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.dll
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\refint\Havayolu.dll
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.pdb
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.genruntimeconfig.cache
+E:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\ref\Havayolu.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.Development.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.staticwebassets.runtime.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.exe
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.deps.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.runtimeconfig.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.pdb
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfoInputs.cache
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfo.cs
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CoreCompileInputs.cache
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cache
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cs
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.build.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.development.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.Havayolu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.build.Havayolu.props
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Havayolu.props
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Havayolu.props
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\bundle\Havayolu.styles.css
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\projectbundle\Havayolu.bundle.scp.css
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\refint\Havayolu.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.pdb
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.genruntimeconfig.cache
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\ref\Havayolu.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Core.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Identity.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Humanizer.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.ClientModel.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.CodeDom.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Json.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.AssemblyReference.cache
+D:\Web Tabanlı Uygulama Geliştirme\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.Up2Date
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.Development.json
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.json
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.staticwebassets.runtime.json
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.exe
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.deps.json
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.runtimeconfig.json
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.pdb
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Core.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Identity.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Humanizer.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.ClientModel.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.CodeDom.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Json.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\ysf ders\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.AssemblyReference.cache
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfoInputs.cache
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfo.cs
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CoreCompileInputs.cache
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.MvcApplicationPartsAssemblyInfo.cache
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cache
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cs
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.build.json
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.development.json
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.Havayolu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.build.Havayolu.props
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Havayolu.props
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Havayolu.props
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\bundle\Havayolu.styles.css
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\projectbundle\Havayolu.bundle.scp.css
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.Up2Date
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.dll
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\refint\Havayolu.dll
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.pdb
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.genruntimeconfig.cache
+C:\ysf ders\Havayolu\Havayolu\obj\Debug\net8.0\ref\Havayolu.dll
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.dll
+E:\Havayolu\Havayolu\obj\Debug\net8.0\refint\Havayolu.dll
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.pdb
+E:\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.Development.json
+E:\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.json
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.staticwebassets.runtime.json
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.exe
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.deps.json
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.runtimeconfig.json
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.pdb
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Core.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Identity.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Humanizer.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.ClientModel.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.CodeDom.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Json.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.AssemblyReference.cache
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfoInputs.cache
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfo.cs
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CoreCompileInputs.cache
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.MvcApplicationPartsAssemblyInfo.cache
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cache
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cs
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.build.json
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.development.json
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.Havayolu.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.build.Havayolu.props
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Havayolu.props
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Havayolu.props
+E:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\bundle\Havayolu.styles.css
+E:\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\projectbundle\Havayolu.bundle.scp.css
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CopyComplete
+E:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.genruntimeconfig.cache
+E:\Havayolu\Havayolu\obj\Debug\net8.0\ref\Havayolu.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.Development.json
+D:\Havayolu\Havayolu\bin\Debug\net8.0\appsettings.json
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.staticwebassets.runtime.json
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.exe
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.deps.json
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.runtimeconfig.json
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Havayolu.pdb
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Core.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Azure.Identity.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Humanizer.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.ClientModel.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.CodeDom.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Text.Json.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Havayolu\Havayolu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.AssemblyReference.cache
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfoInputs.cache
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.AssemblyInfo.cs
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.CoreCompileInputs.cache
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.MvcApplicationPartsAssemblyInfo.cache
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cache
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.RazorAssemblyInfo.cs
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.build.json
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.development.json
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.Havayolu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.build.Havayolu.props
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Havayolu.props
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Havayolu.props
+D:\Havayolu\Havayolu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\bundle\Havayolu.styles.css
+D:\Havayolu\Havayolu\obj\Debug\net8.0\scopedcss\projectbundle\Havayolu.bundle.scp.css
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.csproj.Up2Date
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.dll
+D:\Havayolu\Havayolu\obj\Debug\net8.0\refint\Havayolu.dll
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.pdb
+D:\Havayolu\Havayolu\obj\Debug\net8.0\Havayolu.genruntimeconfig.cache
+D:\Havayolu\Havayolu\obj\Debug\net8.0\ref\Havayolu.dll
